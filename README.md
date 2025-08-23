@@ -69,5 +69,16 @@ To replicate the environment of this repository:
 ## **Key Notes**
 - The scripts are adaptable and modular and allow customization for various datasets and application daomains.
 - The provided framework is scalable and designed for tasks requiring reasoning over spatio-temporal knowledge graph.
+- If you use our work please cite as in below:
+
+.. code:: bibtex
+
+	@inproceedings{gato2025,
+	  title={STKGNN: Scalable Spatio-Temporal Knowledge Graph Reasoning for Activity Recognition},
+	  author={Tataroglu Ozbulak, Gozde Ayse and Shrestha, Yash Raj and Calbimonte, Jean-Paul},
+	  booktitle={The Conference on Information and Knowledge Management (CIKM)},
+	  publisher = {Association for Computing Machinery},
+	  year={2025}
+	}
 
 Thank you!
