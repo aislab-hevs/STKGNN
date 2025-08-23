@@ -46,11 +46,13 @@ All the details about the models are shared in the paper.
 - Each model contains both common and specialized implementations, offering flexibility for customization.
 
 ---
-## **Comparative Analysis
+## **Comparative Analysis**
  Some pixel-wise state-of-the-art methods from the literature in our domain (the direct comparable works with our are not feasible, so we culd only implement limited similiar works) namely,  **`STIP-GCN_top1-5`** [1], **`AKU_top1-5`** [2], and **`TRG_top1-5`** [3] notebooks that have been implemented to be compatible with our dataset under **Comparative_Analysis** folder. Each has been reported by using Top-1 and Top-5 accuracy metrics and compared against our proposed models with corresponding notebooks are provided for evaluation.
 
 [1] Sravani Yenduri, Vishnu Chalavadi, and C Krishna Mohan. 2022. STIP-GCN:Space-time interest points graph convolutional network for action recognition. In 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, US, 1–8.
+
 [2] Yue Ma, Yali Wang, Yue Wu, Ziyu Lyu, Siran Chen, Xiu Li, and Yu Qiao. 2022. Visual knowledge graph for human action reasoning in videos. In Proc. 30th ACM International Conference on Multimedia. Association for Computing Machinery, New York, NY, USA, 4132–4141.
+
 [3] Jingran Zhang, Fumin Shen, Xing Xu, and Heng Tao Shen. 2020. Temporal reasoning graph for activity recognition. IEEE Transactions on Image Processing 29 (2020), 5491–5506.
 
 - Each model has also been adapted for "Top-1 and Top-5 accuracy" with following notebooks under **Evaluation_Top1-5** folder, **`FusionGAT_top1-5`**, **`StableGCN_top1-5`** and **`TemporalSAGE_top1-5`** computaton which are compatible for comparative analysis which are provided for direct execution by excluding reasoning parts of our models.
