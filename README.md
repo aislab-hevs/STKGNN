@@ -77,7 +77,7 @@ To replicate the environment of this repository:
 	  title={STKGNN: Scalable Spatio-Temporal Knowledge Graph Reasoning for Activity Recognition},
 	  author={Tataroglu Ozbulak, Gozde Ayse and Shrestha, Yash Raj and Calbimonte, Jean-Paul},
 	  booktitle={The Conference on Information and Knowledge Management (CIKM)},
-	  publisher = {Association for Computing Machinery},
+	  publisher={Association for Computing Machinery},
 	  year={2025}
 	}
 
