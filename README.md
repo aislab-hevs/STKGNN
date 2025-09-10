@@ -81,5 +81,3 @@ To replicate the environment of this repository:
 	  note      = {in press},
 	  doi       = {10.1145/3746252.3761147}
 	}
-
-Thank you!
