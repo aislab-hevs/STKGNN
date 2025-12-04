@@ -73,11 +73,10 @@ To replicate the environment of this repository:
 
 
 ```bibtex	
-	@inproceedings{tataroglu25,
-	  author    = {{Tataro\u{g}lu {\"O}zbulak}, G{\"o}zde Ay{\c{s}}e and Shrestha, Yash Raj and Calbimonte, Jean-Paul},
-	  title     = {{STKGNN}: Scalable spatio-temporal knowledge graph reasoning for activity recognition},
-	  booktitle = {Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)},
-	  year      = {2025},
-	  note      = {in press},
-	  doi       = {10.1145/3746252.3761147}
-	}
+@inproceedings{tatarouglu2025stkgnn,
+  title={STKGNN: Scalable Spatio-Temporal Knowledge Graph Reasoning for Activity Recognition},
+  author={Tataro{\u{g}}lu {\"o}zbulak, G{\"o}zde Ay{\c{s}}e and Shrestha, Yash Raj and Calbimonte, Jean-Paul},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
+  pages={2853--2862},
+  year={2025}
+}
